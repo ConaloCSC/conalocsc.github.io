@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+        body {background-color: LightCoral}
+        h1 {color:white;
+            font-family: Arial;
+            font-size: 300%;
+            text-align: center;
+        }
+        p1 {color: Maroon;
+            font-family: Arial;
+            font-size: 160%;
+           }
+        p2 {color: FireBrick;
+            font-family: Arial;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Conalo's Portfolio Page</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <main>
+        <h1><p style="font-family:verdana">About me</p></h1>
+        <p1><a href="index.html">Home</p1>
+    </main>
+    <script src="index.js"></script>
+  </body>
+</html>
